@@ -29,6 +29,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dhruvjain2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/dhruvjain2004)](https://www.linkedin.com/in/dhruv-jain-877543223/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://dhruv-portfolio-one.vercel.app/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](dhruvjain527@gmail.com)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=dhruvjain2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
