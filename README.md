@@ -1,6 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Dhruv Jain</h1>
 🚀 I’m currently working on various Full Stack projects using the MERN stack and Next.js  
+
 👯 I’m looking to collaborate on open-source projects, internships, and innovative web applications  
 🤝 I’m looking for help with advanced backend concepts, system design, and deployment strategies  
 🌱 I’m currently learning various development fundamentals including DevOps, testing, and scalable architecture  
