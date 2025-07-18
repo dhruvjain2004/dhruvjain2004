@@ -37,7 +37,6 @@
 
 ### 🧩 Just for Fun
 🥇 "Code, Debug, Repeat — until the coffee runs out!"
-
 🧠 Favorite Quote: "The best way to predict the future is to invent it." — Alan Kay
 🎮 When I’m not coding, I’m probably exploring tech videos or walking my white Labrador 🐾
 
