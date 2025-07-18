@@ -34,7 +34,7 @@
 
 ### 📫 Connect with me
 
-<p align="left"> <a href="https://www.linkedin.com/in/dhruv-jain-877543223/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:your-dhruvjain527@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://dhruv-portfolio-one.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/dhruv-jain-877543223/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:your-dhruvjain527@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://portfolio-dhruvj.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
 
 ### 🧩 Just for Fun
 🥇 "Code, Debug, Repeat — until the coffee runs out!"
