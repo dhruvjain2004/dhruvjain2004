@@ -35,7 +35,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://dhruv-portfolio-one.vercel.app/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](dhruvjain527@gmail.com)
 
-<p align="left"> <a href="https://linkedin.com/in/dhruvjain2004" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://your-portfolio-link.com" target="_blank"> <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/dhruv-jain-877543223/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:your-dhruvjain527@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://dhruv-portfolio-one.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
 
 ### 🧩 Just for Fun
 🥇 "Code, Debug, Repeat — until the coffee runs out!"
