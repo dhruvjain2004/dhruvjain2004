@@ -24,8 +24,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=dhruvjain2004&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-
-<p align="center">
+<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
 </p>
 
