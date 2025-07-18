@@ -35,6 +35,13 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://dhruv-portfolio-one.vercel.app/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](dhruvjain527@gmail.com)
 
+### 🧩 Just for Fun
+🥇 "Code, Debug, Repeat — until the coffee runs out!"
+🧠 Favorite Quote: "The best way to predict the future is to invent it." — Alan Kay
+🎮 When I’m not coding, I’m probably exploring tech videos or walking my white Labrador 🐾
+
+# If you like what I do, consider leaving a ⭐ on my projects and let’s connect! 🙌
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dhruvjain2004&icon=0&color=0)](https://visitcount.itsvg.in)
