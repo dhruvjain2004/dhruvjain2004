@@ -1,14 +1,18 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Dhruv Jain</h1>
-🚀 I’m currently working on various Full Stack projects using the MERN stack and Next.js  
+# 💫Hi 👋, I'm Dhruv Jain
+**A passionate Software Developer || Full Stack Development || Generative AI || AIML**
 
+🚀 I’m currently working on various Full Stack projects using the MERN stack and Next.js  
 👯 I’m looking to collaborate on open-source projects, internships, and innovative web applications  
 🤝 I’m looking for help with advanced backend concepts, system design, and deployment strategies  
 🌱 I’m currently learning various development fundamentals including DevOps, testing, and scalable architecture  
 💬 Ask me about JavaScript, React, Node.js, MongoDB, REST APIs, and building end-to-end web applications  
 ⚡ Fun fact: I love debugging complex bugs — it's like solving a puzzle!
 
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DhruvJain) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruv.j_28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https:/www.linkedin.com/in/dhruv-jain-877543223/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dhruvjain527) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/DhruvJain) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/dhruvjain100) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dhruvjain527) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC9_2rnfksBxWJNJaJbSAxVg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvjain527@gmail.com) 
