@@ -1,7 +1,7 @@
 # 💫Hi 👋, I'm Dhruv Jain
 **A passionate Software Developer || Full Stack Development || Generative AI || AIML**
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Problem+Solver;AI+Enthusiast;Software+Developer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Problem+Solver;AI+Enthusiast;Software+Developer" alt="Typing SVG">
 </h3>
 
 🚀 I’m currently working on various Full Stack projects using the MERN stack and Next.js  
